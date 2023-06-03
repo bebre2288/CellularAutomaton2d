@@ -10,7 +10,7 @@ gcc compiler on linux
 
 ### Linux
 ``` bash
-$ chmod +x buils.sh
+$ chmod +x build.sh
 $ ./build.sh
 $ ./run
 ```
